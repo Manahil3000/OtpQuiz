@@ -1,4 +1,9 @@
 {
   "name": "OtpQuiz",
-  "displayName": "OtpQuiz"
+  "displayName": "OtpQuiz",
+  "extra": {
+    "eas": {
+      "projectId": "5e3b737c-f5ce-4fb0-b82b-e2942a244ae4"
+    }
+  }
 }
